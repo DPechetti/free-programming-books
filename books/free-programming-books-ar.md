@@ -1,7 +1,11 @@
+<div dir="rtl" markdown="1">
+
 ### Index
 
 * [Arduino](#arduino)
-* [C#](#c-sharp)
+* [Artificial Intelligence](#artificial-intelligence)
+* [AWS](#aws)
+* [C#&lrm;](#csharp)
 * [HTML/CSS](#htmlcss)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
@@ -16,42 +20,57 @@
 * [Ruby](#ruby)
 * [Security](#security)
 * [SEO](#seo)
+* [SQL](#sql)
+  * [PostgreSQL](#postgresql)
 * [UI/UX](#uiux)
 
 
 ### Arduino
 
-* [أردوينو السهل](http://librebooks.org/simply-arduino/)
-* [كتاب احترف الأردوينو](http://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) (PDF)
+* [احترف الأردوينو](https://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) - Working Group (PDF)
+* [اردوينو ببساطة](https://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry (PDF)
+* [AVR ببساطة: من تشغيل دايود ضوئي إلى أنظمة الوقت الحقيقي](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry (ODT, PDF)
 
 
-### C Sharp
+### Artificial Intelligence
 
-* [سبيلك المختصر لتعلم لغة c# - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy)
+* [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-%D9%85%D8%AF%D8%AE%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9/) - Mohamed Lahlah (PDF)
+
+
+### AWS
+
+* [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif (AWS Riyadh User Group)
+
+
+### <a id="csharp"></a>C#&lrm;
+
+* [سبيلك المختصر لتعلم لغة c#&lrm; - برمجة الواجهات](https://www.mobarmijoun.com/2014/04/c_19.html) - Khaled Al-Saadani (Arab Coders Academy) (PDF)
 
 
 ### HTML/CSS
 
-* [التحريك عبر CSS](https://academy.hsoub.com/files/14-التحريك-عبر-css/)
-* [نحو فهم أعمق لتقنيات HTML5](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/)
+* [التحريك عبر CSS&rlm;](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat (PDF)
+* [نحو فهم أعمق لتقنيات HTML5&rlm;](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash (PDF)
 
 
 ### Introduction to Programming in Arabic
 
-* [مختصر دليل لغات البرمجة ](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) (PDF)
+* [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen (PDF)
 
 
 ### JavaScript
 
-* [Eloquent Javascript](https://rabahboudia.gitbooks.io/arabic-eloquent-js/content/index.html) - Marijn Haverbeke (HTML)
+* [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
+* [سلسلة تعلم Next.js بالعربية](https://blog.abdelhadi.org/learn-nextjs-in-arabic/) - Flavio Copes, عبدالهادي الأندلسي
+* [Eloquent Javascript (Second Edition)&rlm;](https://rabahboudia.gitbooks.io/arabic-eloquent-js/) - Marijn Haverbeke, Rabah Boudia (gitbook)
 
 
 ### Linux
 
-* [أوبنتو السهل](http://librebooks.org/simply-ubuntu/)
-* [الإدارة المتقدمة لجنو/لينكس ](http://librebooks.org/gnu-linux-advanced-administration/)
-* [دفتر مدير دبيان](http://librebooks.org/debian-handbook-arabic/)
-* [دليل إدارة خواديم أوبنتو](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/)
+* [الإدارة المتقدمة لجنو/لينكس ](https://librebooks.org/gnu-linux-advanced-administration/) - Remo Suppi Boldrito, Josep Jorba Esteve, Abdel Rahim Ghaleb (PDF)
+* [أوبنتو ببساطة](https://www.simplyubuntu.com) - Ahmed AbouZaid (PDF)
+* [دفتر مدير دبيان](https://ar.debian-handbook.info) - Raphaël Hertzog, Roland Mas, MUHAMMET SAİT Muhammet Sait (PDF, HTML)
+* [دليل إدارة خواديم أوبنتو 14.04](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash (PDF) 
 
 
 ### Open Source Software
@@ -102,8 +121,9 @@
 
 ### Security
 
-* [تأمين الشبكات اللاسلكية للمستخدم المنزلي](http://librebooks.org/secure-wireless-networks-for-home-users/)
+* [تأمين الشبكات اللاسلكية للمستخدم المنزلي](https://mohamedation.github.io/securing-wifi) - Mohamed Adel (HTML)
 * [تقنيات الاختراق المادي](http://librebooks.org/physical-hacking-techniques/)
+* [دليل الأمان الرقمي](https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/)
 * [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)
 
 
@@ -112,6 +132,18 @@
 * [تحسين محركات البحث SEO - دليل المبتدئين](http://librebooks.org/search-engine-optimization-seo-starter-guide-ar/)
 
 
+### SQL
+
+* [ملاحظات للعاملين بلغة SQL](https://academy.hsoub.com/files/16-%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA-%D9%84%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86-%D8%A8%D9%84%D8%BA%D8%A9-sql/)
+
+
+#### PostgreSQL
+
+* [الدليل العملي إلى قواعد بيانات PostgreSQL](https://academy.hsoub.com/files/18-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A-%D8%A5%D9%84%D9%89-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-postgresql/)
+
+
 ### UI/UX
 
 * [مدخل إلى تجربة المستخدم](https://academy.hsoub.com/files/11-مدخل-إلى-تجربة-المستخدم-user-experience-ux/)
+
+</div>

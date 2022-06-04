@@ -1,10 +1,10 @@
 ### Index
 
 * [C](#c)
-* [C Sharp](#c-sharp)
+* [C#](#csharp)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [Angular](#angular)
+    * [AngularJS](#angularjs)
     * [Vue](#vue)
 * [PHP](#php)
 * [Python](#python)
@@ -18,7 +18,7 @@
 * [Programmeerimiskeel C](https://et.wikibooks.org/wiki/Programmeerimiskeel_C) - Wikiõpikud
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [Microsoft Visual Studio Code ja C#](https://digiarhiiv.ut.ee/Ained/Doc/VFailid/CSharp_ja_VS.pdf) - Kalle Remm (PDF)
 
@@ -35,12 +35,12 @@
 * [Javascript](http://lepo.it.da.ut.ee/~epuman/javascript.html) - Ella Puman, Tartu ÜLikooli õppematerjal
 
 
-##### Angular
+#### AngularJS
 
-* [Angular](http://www.cs.tlu.ee/teemad/get_file.php?id=400) - Tallinna Ülikooli õppematerjal
+* [AngularJS raamistiku õppematerjal](http://www.cs.tlu.ee/teemad/get_file.php?id=400) - Tallinna Ülikooli, Sander Leetus (PDF)
 
 
-##### Vue 
+#### Vue
 
 * [Vue](http://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Tallinna ülikooli õppematerjal
 

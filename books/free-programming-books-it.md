@@ -7,21 +7,22 @@
   * [Sistemi](#sistemi)
   * [Storia dell'informatica](#storia-dellinformatica)
 * [Android](#android)
-* [Angular](#angular)
 * [Assembly Language](#assembly-language)
 * [BASH](#bash)
 * [C](#c)
-* [C#](#c-sharp)
-* [C++](#c-plus-plus)
+* [C#](#csharp)
+* [C++](#cpp)
 * [CSS](#css)
 * [Database](#database)
   * [NoSQL](#nosql)
   * [Relazionali](#relazionali)
   * [SQL](#sql)
+* [Git](#git)
 * [Golang](#golang)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
+  * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -32,6 +33,8 @@
 * [Python](#python)
   * [Django](#django)
 * [Ruby](#ruby)
+* [TypeScript](#typescript)
+  * [Angular](#angular)
 * [UML](#uml)
 * [Visual Basic](#visual-basic)
 
@@ -74,36 +77,35 @@
 * [Guida Android](http://www.html.it/guide/guida-android/) (HTML)
 
 
-### Angular
-
-* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
-
-
 ### Assembly Language
 
+* [La CPU Intel 8086: Architettura e Programmazione Assembly](http://www.ce.unipr.it/didattica/calcolatoriA/free-docs/lucidi.pdf) - Alberto Broggi (PDF)
 * [PC Assembly Language](http://drpaulcarter.com/pcasm/) - Paul A. Carter
+* [Reverse Engineering per Principianti](https://beginners.re/RE4B-IT.pdf) - Dennis Yurichev, Federico Ramondino, Paolo Stivanin, Fabrizio Bertone, Matteo Sticco, Marco Negro et al. (PDF)
 
 
 ### BASH
 
 * [Guida avanzata per la bash](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/abs-guide.pdf) (PDF)
+* [La guida di Bash per principianti](http://codex.altervista.org/guidabash/guidabash_1_11.pdf) - Machtelt Garrels (PDF)
+* [Programmazione della shell Bash](https://www.aquilante.net/doc/bash_programming.pdf) - Marco Liverani (PDF)
 
 
 ### C
 
-* [Guida di Beej alla Programmazione di Rete - Usando Socket Internet](http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf) - B. Hall, Tradotto da Fabrizio Pani (PDF)
+* [Guida di Beej alla Programmazione di Rete - Usando Socket Internet](http://linguaggioc.altervista.org/dl/GuidaDiBeejAllaProgrammazioneDiRete.pdf) - Brian "Beej Jorgensen" Hall, Fabrizio Pani (PDF)
 * [Il linguaggio C - Guida pratica alla programmazione](https://eineki.files.wordpress.com/2010/02/guidac.pdf) - (PDF)
-* [Linguaggio C - ANSI C](http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) - B.W. Kernighan e D.M. Ritchie (PDF)
+* [Linguaggio C - ANSI C](https://web.archive.org/web/20180920221053/http://www.itis.pr.it/~dsacco/itis/Olimpiadi-informatica/Libri-di-testo/LinguaggioC-R&K.pdf) - Brian W. Kernighan, Dennis M. Ritchie (PDF) *(:card_file_box: archived)*
 * [Linguaggio C - Guida alla programmazione](http://www.cbmc.it/~marchettil/Tandem2016/Bellini.pdf) - A. Bellini e A. Guidi _Anno di pubblicazione_ 1999 (PDF)
 * [Tricky C](http://www.dmi.unict.it/diraimondo/web/wp-content/uploads/classes/so/mirror-stuff/Tricky_C.pdf) (PDF)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [ABC# - Guida alla programmazione](http://antoniopelleriti.it/wp-content/uploads/2019/04/ABCsharp-guida-alla-programmazione-in-csharp.pdf) - A. Pelleriti (PDF)
 
 
-### C Plus Plus
+### <a id="cpp"></a>C++
 
 * [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) - (PDF)
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) - (PDF)
@@ -120,6 +122,11 @@
 * [La progettazione dei database relazionali](http://www.crescenziogallo.it/unifg/medicina/TSRM/master_bioimmagini/db/Teoria_pratica_progettazione_db_relazionali.pdf) - C. Gallo (PDF)
 * [Manuale pratico di disegno e progettazione dei database](http://www.brunasti.eu/unimib/bdsi/manuale-pratico-progettazione-ER-100914.pdf) - P. Brunasti (PDF)
 * [Progettare database NoSQL: la guida](http://www.html.it/guide/progettare-database-nosql/?cref=system) (HTML)
+
+
+#### Git
+
+* [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 #### NoSQL
@@ -140,6 +147,12 @@
 * [Guida linguaggio SQL](http://www.html.it/guide/guida-linguaggio-sql/?cref=system) (HTML)
 
 
+### Golang
+
+* [Golang](http://www.vittal.it/wp-content/uploads/2019/01/golang.pdf) - V.Albertoni (PDF)
+* [The Little Go Book](https://github.com/francescomalatesta/the-little-go-book-ita) - Karl Seguin, Francesco Malatesta ([HTML](https://github.com/francescomalatesta/the-little-go-book-ita/blob/master/it/go.md))
+
+
 ### HTML
 
 * [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
@@ -147,15 +160,10 @@
 * [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf) (PDF)
 
 
-### Golang
-
-* [Golang](http://www.vittal.it/wp-content/uploads/2019/01/golang.pdf) - V.Albertoni (PDF)
-
-
 ### Java
 
 * [Appendici del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_Java9-Appendici.pdf) - C. De Sio Cesari (PDF)
-* [Esercitazioni di Spring Boot](https://www.emmecilab.net/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) - M. Cicolella (HTML)
+* [Esercitazioni di Spring Boot](https://www.emmecilab.net/blog/esercitazioni-di-spring-boot-0-come-impostare-un-progetto/) - M. Cicolella (HTML)
 * [Esercizi del manuale di Java 9](https://www.hoepli.it/editore/hoepli_file/download_pub/978-88-203-8302-2_java9-esercizi.pdf) - C. De Sio Cesari (PDF)
 * [Esercizi di Java Avanzato](http://wpage.unina.it/m.faella/Didattica/LpII/archivio.pdf) - M. Faella  (PDF)
 * [Fondamenti di informatica - Java - Eserciziario](http://www.dei.unipd.it/~filira/fi/etc/eserciziario.pdf) (PDF)
@@ -163,7 +171,7 @@
 * [Guida Java](http://www.html.it/guide/guida-java/?cref=development) (HTML)
 * [Java 7](https://it.wikibooks.org/wiki/Java) - Wikibooks
 * [Java 9 e 10, la guida](https://www.html.it/guide/java-9-la-guida/) (HTML)
-* [Java Mattone dopo Mattone](http://www.digididattica.it/pluginfile.php/2127/mod_resource/content/1/javamattone.pdf) (PDF)
+* [Java Mattone dopo Mattone](http://www.istitutopalatucci.it/libri/scienze/Java%20-%20Mattone%20dopo%20mattone.pdf) - Massimiliano Tarquini (PDF)
 * [Materiale extra online de "Il nuovo Java"](https://www.nuovojava.it/assets/download/nuovoJava-materiale_extra_online.pdf) - Claudio De Sio Cesari (PDF)
 * [Object Oriented && Java 5 (II Edizione)](http://www.claudiodesio.com/download/oo_&&_java_5.zip) - Claudio De Sio Cesari (ZIP)
 
@@ -173,6 +181,15 @@
 * [Corso completo Javascript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
+* [Guida Javascript](https://www.html.it/guide/guida-javascript-di-base/) - Andrea Chiarelli, Davide Brognoli, Alberto Bottarini, Ilario Valdelli (HTML)
+
+
+#### AngularJS
+
+> :information_source: Vedi anche &#8230; [Angular](#angular)
+
+* [AngularJS, il supereroe dei framework JavaScript ...di Google](https://www.html.it/articoli/angularjs-il-supereroe-dei-framework-javascript-di-google/) - Andrea Chiarelli (HTML)
+* [Guida AngularJS](https://www.html.it/guide/guida-angularjs/) - Andrea Chiarelli (HTML)
 
 
 ### Kotlin
@@ -241,6 +258,21 @@
 * [Introduzione a Ruby](http://tesi.cab.unipd.it/22937/1/Tesina_-_Introduzione_a_Ruby.pdf) (PDF)
 * [Programmazione elementare in Ruby](http://minimalprocedure.pragmas.org/writings/programmazione_elementare_ruby/corso_elementare_ruby.html)
 * [Ruby User Guide](https://web.archive.org/web/20161102011319/http://ruby-it.org/rug_it.zip)
+
+
+### TypeScript
+
+* [Guida TypeScript](https://www.html.it/guide/guida-typescript/) - Andrea Chiarelli (HTML)
+* [TypeScript Deep Dive](https://github.com/TizioFittizio/typescript-book) - Basarat Ali Syed, Luca Campana (HTML) (GitBooks)
+
+
+#### Angular
+
+> :information_source: Vedi anche &#8230; [AngularJS](#angularjs)
+
+* [Applicazioni con Angular e PHP, la guida](https://www.html.it/guide/applicazioni-con-angular-e-php-la-guida/) - Lorenzo De Ambrosis (HTML)
+* [Guida Angular 2](https://www.html.it/guide/guida-angularjs-2/) - Andrea Chiarelli (HTML)
+* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
 ### UML

@@ -3,7 +3,8 @@
 * [0 - Programozási nyelv független](#0---programozasi-nyelv-fuggetlen)
 * [Ada](#ada)
 * [Arduino](#arduino)
-* [C++](#c)
+* [C](#c)
+* [C++](#cpp)
 * [HTML / CSS](#html-css)
 * [Java](#java)
 * [Lego Mindstorms](#lego-mindstorms)
@@ -37,7 +38,12 @@
 * [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans írása alapján fordította, kiegészítette és frissítette Cseh Róbert (PDF - regisztráció szükséges)
 
 
-### C++
+### C
+
+* [Beej útmutatója a hálózati programozáshoz - Internet Socketek használatával](https://web.archive.org/web/20180630204236/http://weknowyourdreams.com/bgnet-sw.html) - Brian "Beej Jorgensen" Hall, Hajdu Gábor (HTML) *(:card_file_box: archived)*
+
+
+### <a id="cpp"></a>C++
 
 * [Fejlett programozási technikák](http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf) - Antal Margit (PDF)
 

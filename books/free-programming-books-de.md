@@ -5,8 +5,8 @@
 * [Android](#android)
 * [Assembly Language](#assembly-language)
 * [C](#c)
-* [C#](#c-sharp)
-* [C++](#c-1)
+* [C#](#csharp)
+* [C++](#cpp)
 * [Component Pascal](#component-pascal)
 * [Git](#git)
 * [Go](#go)
@@ -17,6 +17,7 @@
 * [JavaScript](#javascript)
   * [React](#react)
 * [LaTeX](#latex)
+* [Mathematik](#mathematik)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [Neo4j](#neo4j)
@@ -54,25 +55,25 @@
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm) - Paul A. Carter
+* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres,
+Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
 
 
 ### C
 
 * [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
-* [Socket Programmierung in C](http://www.tobscore.com/socket-programmierung-in-c) - B. Hall, Übersetzt von Tobias Kerst (HTML)
+* [Socket Programmierung in C](http://www.tobscore.com/socket-programmierung-in-c) - Brian "Beej Jorgensen" Hall, Übersetzt von Tobias Kerst (HTML)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
-### C Sharp
+### <a id="csharp"></a>C\#
 
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
-* [Visual C# 2008](http://openbook.rheinwerk-verlag.de/visual_csharp) - Andreas Kühnel (Online)
-* [Visual C# 2010](http://openbook.rheinwerk-verlag.de/visual_csharp_2010) - Andreas Kühnel (Online)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
 
 
-### C++
+### <a id="cpp"></a>C++
 
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de) - Boris Schäling (Online)
 * [Lean Testing für C++-Programmierer (2018)](https://www.assets.dpunkt.de/openbooks/Openbook_Lean_Testing.pdf) - Andreas Spillner, Ulrich Breymann (PDF)
@@ -95,8 +96,9 @@
 ### Go
 
 * [Effektiv Go Programmieren](http://www.bitloeffel.de/DOC/golang/effective_go_de.html) (Online)
-* [Eine Tour durch Go](https://go-tour-de.appspot.com/welcome/1)
+* [Eine Tour durch Go](https://github.com/michivo/go-tour-de)
 * [Erstelle Webanwendungen mit Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de)
+* [The Little Go Book](https://github.com/Aaronmacaron/the-little-go-book-de) - Karl Seguin, Aaron Ebnöther ([HTML](https://github.com/Aaronmacaron/the-little-go-book-de/blob/master/de/go.md))
 
 
 ### Groovy
@@ -125,6 +127,7 @@
 * [Java 7 Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7) - Christian Ullenboom (Online)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel) - Christian Ullenboom (Online)
 * [Java SE 8 Standard-Bibliothek](http://openbook.rheinwerk-verlag.de/java8) - Christian Ullenboom (Online)
+* [Java Tutorial - Java lernen leicht gemacht](https://java-tutorial.org/index.php) - Björn und Britta Petri
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung)
 * [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
@@ -147,6 +150,11 @@
 * [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
 * [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz)
+
+
+### Mathematik
+
+* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann et al. (PDF)
 
 
 ### Meta-Lists
@@ -181,6 +189,7 @@
 * [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
 * [Einführung in Python](http://www.mschimmels.de/eigeneDateien/Python-Kurs.pdf) - Martin Schimmels (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)
+* [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *(:construction: in process)*
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python) - Johannes Ernesti, Peter Kaiser (Online)
 
 

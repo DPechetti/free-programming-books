@@ -3,7 +3,7 @@
 * [Algoritma ve Veri Yapıları](#algoritma-ve-veri-yapilari)
 * [Android](#android)
 * [C](#c)
-* [C++](#c-1)
+* [C++](#cpp)
 * [CSS](#css)
 * [D](#d)
 * [Dart](#dart)
@@ -43,12 +43,11 @@
 
 ### C
 
-* [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - B. Hall, Çeviren Emre "FZ" Sevinç (HTML)
-* [C Programlama Diline Giriş](https://www.gantep.edu.tr/~bingul/c/index.php) - Ahmet Bingül
+* [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - Brian "Beej Jorgensen" Hall, Çeviren Emre "FZ" Sevinç (HTML)
 * [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
 
 
-### C++
+### <a id="cpp"></a>C++
 
 * [C++ Dersleri](https://www.yusufsezer.com.tr/cpp-dersleri/) - Yusuf Sezer
 
@@ -76,7 +75,7 @@
 
 ### Go
 
-* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi
+* [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, Umut Işık tarafından çevirildi ([HTML](https://github.com/umutphp/the-little-go-book/blob/master/tr/go.md), [PDF](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.pdf), [EPUB](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.epub))
 
 
 ### Güvenlik ve Gizlilik
@@ -92,7 +91,7 @@
 
 ### iOS
 
-* [iOS Geleceği Yazanlar](https://www.gelecegiyazanlar.turkcell.com.tr/konu/ios)
+* [iOS Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/ios)
 
 
 ### Java
@@ -140,6 +139,7 @@
 ### Python
 
 * [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](https://www.ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
+* [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
 
 
 ### Django
@@ -152,6 +152,7 @@
 ### R
 
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://www.github.com/emraher/eybkbrk) - Emrah Er
+* [R ile Programlamaya Giriş ve Uygulamalar (2014)](http://inet-tr.org.tr/inetconf19/sunum/16.pdf) - Mustafa Gökçe Baydoğan, Berk Orbay, Uzay Çetin (PDF)
 
 
 ### Ruby
@@ -165,5 +166,5 @@
 
 ### Rust
 
-* [Rust'a Giriş](http://bit.ly/rustagiris) - Mahmut Bulut
-
+* [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
+* [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)

@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C++](#c++)
+* [C++](#cpp)
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -9,9 +9,10 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Spieleentwicklung](#spieleentwicklung)
+* [TypeScript](#typescript)
 
 
-### C++
+### <a id="cpp"></a>C++
 
 * [C++ Grundlagen Tutorials von Pilzschaf](https://www.youtube.com/playlist?list=PLStQc0GqppuVs05kWvLBoHcWCULX3ueIM) - Pilzschaf
 
@@ -34,6 +35,7 @@
 
 ### JavaScript
 
+* [JavaScript lernen für Anfänger](https://www.javascript-kurs.de) - JavaScript Kurs
 * [JavaScript Lernen für Anfänger bis Profis](https://www.youtube.com/playlist?list=PLNmsVeXQZj7qOfMI2ZNk-LXUAiXKrwDIi) - The Morpheus Tutorials
 
 
@@ -59,3 +61,9 @@
 ### Spieleentwicklung
 
 * [Unreal Engine 4 Tutorial Deutsch/German](https://www.youtube.com/playlist?list=PLNmsVeXQZj7olLCliQ05e6hvEOl6sbBgv) - The Morpheus Tutorials
+
+
+### TypeScript
+
+* [Erstellen von Javascript-Anwendung mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
+* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden
