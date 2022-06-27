@@ -1490,6 +1490,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Lua
 
+* [Learning Lua ebook](https://riptutorial.com/Download/lua.pdf) - Rip Tutorial (Compiled from StackOverflow documentation) (PDF)
 * [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
 * [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
 * [Lua Tutorial](http://www.tutorialspoint.com/lua/) - Tutorials Point (HTML, PDF)
@@ -1719,6 +1720,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### PHP
 
+* [An Introduction to the PHP Programming Language](https://codeahoy.com/learn/php/toc/) - CodeAhoy (HTML)
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Apprentice](https://phpapprentice.com) - Andrew Davis *(:construction: in process)*
@@ -1915,7 +1917,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Making Games with Python & Pygame](https://inventwithpython.com/pygame/chapters/) - Al Sweigart (3.2)
 * [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
 * [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) - Allen B. Downey (PDF)
-* [Modeling Creativity: Case Studies in Python](http://www.clips.ua.ac.be/sites/default/files/modeling-creativity.pdf) - Tom D. De Smedt (PDF)
+* [Modeling Creativity: Case Studies in Python](https://arxiv.org/pdf/1410.0281.pdf) - Tom D. De Smedt (PDF)
 * [Natural Language Processing (NLP) with Python — Tutorial](https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0) (PDF)
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - Wikibooks (3.3)

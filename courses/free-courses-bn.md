@@ -74,6 +74,7 @@
 ### Go
 
 * [Golang কোডিং বুট ক্যাম্প ক্লাস](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - MASTER-ACADEMY
+* [Go Bangla Tutorials 2022](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rtasmmoS_EWXdg0X-eX_x8) - Anisul Islam
 
 
 ### HTML and CSS
@@ -122,6 +123,8 @@
 #### Node.js
 
 * [Dive Into NodeJS](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDHFj-ecFSU0SU-B0TuJRk9) - Stack Learner
+* [Node.js Tutorial Bangla  Series for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM) - Learn With Sumit
+* [Raw Node JS Project in Bangla ( বাংলা ) - Uptime Monitoring API](https://youtube.com/playlist?list=PLHiZ4m8vCp9OmVWU2Qf9tZgKdyzoubOpj) - Learn With Sumit
 
 
 #### React
@@ -172,3 +175,4 @@
 ### TypeScript
 
 * [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit - LWS - Bangladesh
+* [typescript full course in bangla](https://youtube.com/playlist?list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq) - Anisul Islam
